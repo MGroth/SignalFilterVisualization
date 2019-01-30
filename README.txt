@@ -1,6 +1,6 @@
 Developed by Marcus Groth in 2017
 
-A filter visualization tool for touch interface.
+A filter visualization tool made with MobMuPlat and Pure Data for a iOS and Android.
 
 The software requires MobMuPlat to run, install it from the app store for your mobile OS. Then put all files except the pdf and readme on the phone. Detailed instructions can be found at http://danieliglesia.com/mobmuplat/
 
